@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints
+
+# Virtualenv
+.venv/
+env/
+venv/
+
+# VSCode
+.vscode/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Env files
+.env
